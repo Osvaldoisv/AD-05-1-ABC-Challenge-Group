@@ -3,13 +3,20 @@ html {
   width: 100%;
 
   body {
-      background-color: grey;
+    background-color: grey;
   }
-  h3{
+
+  h3 {
     color: green;
   }
 
-  
+  .color-azul {
+    color: blue;
+  }
+
+  .color-rojo {
+    color: red;
+  }
 
 
 
@@ -17,5 +24,4 @@ html {
 
 
 
-  
 }
