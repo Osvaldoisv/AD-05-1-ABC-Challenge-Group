@@ -1,27 +1,20 @@
 html {
   height: 100%;
   width: 100%;
+}
 
-  body {
-    background-color: grey;
-  }
+body {
+  background-color: grey;
+}
 
-  h3 {
-    color: green;
-  }
+h3 {
+  color: green;
+}
 
-  .color-azul {
-    color: blue;
-  }
+.color-azul {
+  color: blue;
+}
 
-  .color-rojo {
-    color: red;
-  }
-
-
-
-
-
-
-
+.color-rojo {
+  color: red;
 }
